@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceb75992-3216-49f9-9fe1-0e131afa7a61" name="Default Changelist" comment="Added tables, dependencies, and reworked the skeleton for our site">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ceb75992-3216-49f9-9fe1-0e131afa7a61" name="Default Changelist" comment="added logo to images" />
+    <list id="113e9a3f-042a-4818-a2e1-c1fd6d5f8379" name="added logo to images" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/javascripts/home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tinxs\WebstormProjects\Green-Code\public\images" />
       <recent name="C:\Users\tinxs\WebstormProjects\Green-Code" />
       <recent name="C:\Users\tinxs\WebstormProjects\Green-Code\views" />
     </key>
@@ -109,9 +111,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added tables, dependencies, and reworked the skeleton for our site" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="711" y="364" key="#Notifications" timestamp="1614997384285">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-856" y="259" key="#Notifications" timestamp="1615001163236">
+      <screen x="-1360" y="0" width="1360" height="768" />
     </state>
+    <state x="-856" y="259" key="#Notifications/0.0.1920.1080/-1360.0.1360.768/1920.0.1920.1080@-1360.0.1360.768" timestamp="1615001163236" />
     <state x="711" y="364" key="#Notifications/0.0.1920.1080/-1360.0.1360.768/1920.0.1920.1080@0.0.1920.1080" timestamp="1614997384285" />
     <state x="414" y="195" width="1030" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614997895498">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -121,6 +124,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="245" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1080/-1360.0.1360.768/1920.0.1920.1080@0.0.1920.1080" timestamp="1614987236355" />
+    <state x="-1360" y="0" key="DiffContextDialog" timestamp="1615001104854">
+      <screen x="-1360" y="0" width="1360" height="768" />
+    </state>
+    <state x="-1360" y="0" key="DiffContextDialog/0.0.1920.1080/-1360.0.1360.768/1920.0.1920.1080@-1360.0.1360.768" timestamp="1615001104854" />
     <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1614987246445">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -149,9 +156,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/-1360.0.1360.768/1920.0.1920.1080@0.0.1920.1080" timestamp="1614987670147" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1614999966079">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-833" y="297" key="VCS.ChangelistChooser" timestamp="1615001183858">
+      <screen x="-1360" y="0" width="1360" height="768" />
     </state>
+    <state x="-833" y="297" key="VCS.ChangelistChooser/0.0.1920.1080/-1360.0.1360.768/1920.0.1920.1080@-1360.0.1360.768" timestamp="1615001183858" />
+    <state x="-969" y="194" key="Vcs.Push.Dialog.v2" timestamp="1615001120523">
+      <screen x="-1360" y="0" width="1360" height="768" />
+    </state>
+    <state x="-969" y="194" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1360.0.1360.768/1920.0.1920.1080@-1360.0.1360.768" timestamp="1615001120523" />
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1360.0.1360.768/1920.0.1920.1080@0.0.1920.1080" timestamp="1614999966079" />
     <state x="677" y="348" key="jetbrains.nodejs.interpreters-dialog" timestamp="1614987232048">
       <screen x="0" y="0" width="1920" height="1080" />
