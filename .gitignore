@@ -10,3 +10,4 @@ obj
 tsconfig.json
 *.NJSPROJ
 *.map
+.idea/codeStyles/Project.xml
